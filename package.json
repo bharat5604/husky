@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
+    "cz-cli": "^1.0.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.14.0",
     "prettier": "^2.6.2",
